@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="14" version="2.0">
+<workbench progressCount="16" version="2.0">
 <workbenchAdvisor/>
-<window height="976" width="1760" x="29" y="78">
+<window height="977" width="1758" x="223" y="25">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -18,7 +18,7 @@
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -30,17 +30,16 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
-<part id="2"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonteCarloMain.java" partName="MonteCarloMain.java" path="/winhomes/bml27/workspace/MonteCarlo/src/MonteCarloMain.java" title="MonteCarloMain.java" tooltip="MonteCarlo/src/MonteCarloMain.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MonteCarlo/src/MonteCarloMain.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="39" selectionOffset="196" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Canvas.java" partName="Canvas.java" path="/winhomes/bml27/workspace/Copy of SolarCells/src/Canvas.java" title="Canvas.java" tooltip="Copy of SolarCells/src/Canvas.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Copy of SolarCells/src/Canvas.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6035" selectionTopPixel="2480"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Event.java" partName="Event.java" path="/winhomes/bml27/workspace/MonteCarlo/src/Event.java" title="Event.java" tooltip="MonteCarlo/src/Event.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MonteCarlo/src/Event.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonteCarloMain.java" partName="MonteCarloMain.java" path="/winhomes/bml27/workspace/Copy of SolarCells/src/MonteCarloMain.java" title="MonteCarloMain.java" tooltip="Copy of SolarCells/src/MonteCarloMain.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Copy of SolarCells/src/MonteCarloMain.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
@@ -50,10 +49,7 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>&#x0A;<category IMemento.internal.id="Warnings (1 item)"/>
-<category IMemento.internal.id="Errors"/>
-</expanded>
-<columnWidths org.eclipse.ui.ide.locationField="73" org.eclipse.ui.ide.markerType="817" org.eclipse.ui.ide.pathField="143" org.eclipse.ui.ide.resourceField="108" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -307,6 +303,12 @@
 <editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=MonteCarlo/\/usr\/lib\/jvm\/java-1.7.0-openjdk-1.7.0.99.x86_64\/jre\/lib\/rt.jar&lt;java.io(FileInputStream.class"/>
 <editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=MonteCarlo/\/usr\/lib\/jvm\/java-1.7.0-openjdk-1.7.0.99.x86_64\/jre\/lib\/rt.jar&lt;java.util(Scanner.class"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MonteCarlo/src/Particle.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MonteCarlo/src/MonteCarloMain.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MonteCarlo/src/Event.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SolarCells/src/Canvas.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/voogasalad_MakeGamesGreatAgain/src/animation/Animator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Copy of SolarCells/src/Canvas.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Copy of SolarCells/src/MonteCarloMain.java"/>
 </editors>
 <item historyLabel="Particle.java" index="0">
 <position info="not_deleted" x="2468" y="5"/>
@@ -401,7 +403,27 @@
 <item historyLabel="Canvas.java" index="5">
 <position info="not_deleted" x="6413" y="52"/>
 </item>
-<item active="true" historyLabel="Particle.java" index="8"/>
+<item historyLabel="Particle.java" index="8"/>
+<item historyLabel="MonteCarloMain.java" index="9"/>
+<item historyLabel="Event.java" index="10"/>
+<item historyLabel="Canvas.java" index="11">
+<position/>
+</item>
+<item historyLabel="Animator.java" index="12">
+<position info="not_deleted" x="125" y="0"/>
+</item>
+<item historyLabel="Canvas.java" index="11">
+<position info="not_deleted" x="4817" y="0"/>
+</item>
+<item historyLabel="Canvas.java" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MonteCarloMain.java" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Canvas.java" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -419,8 +441,29 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="canvas.csv" tooltip="Copy of SolarCells/canvas.csv">
+<persistable path="/Copy of SolarCells/canvas.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="Config1_60 2.csv" tooltip="Copy of SolarCells/Config1_60 2.csv">
+<persistable path="/Copy of SolarCells/Config1_60 2.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="output.csv" tooltip="Copy of SolarCells/output.csv">
+<persistable path="/Copy of SolarCells/output.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonteCarloMain.java" tooltip="Copy of SolarCells/src/MonteCarloMain.java">
+<persistable path="/Copy of SolarCells/src/MonteCarloMain.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Canvas.java" tooltip="Copy of SolarCells/src/Canvas.java">
+<persistable path="/Copy of SolarCells/src/Canvas.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="output.csv" tooltip="SolarCells/output.csv">
 <persistable path="/SolarCells/output.csv"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Animator.java" tooltip="voogasalad_MakeGamesGreatAgain/src/animation/Animator.java">
+<persistable path="/voogasalad_MakeGamesGreatAgain/src/animation/Animator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Canvas.java" tooltip="SolarCells/src/Canvas.java">
+<persistable path="/SolarCells/src/Canvas.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="Config1_60.csv" tooltip="MonteCarlo/Config1_60.csv">
 <persistable path="/MonteCarlo/Config1_60.csv"/>
@@ -442,12 +485,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonteCarloDriver.java" tooltip="MonteCarlo/src/MonteCarloDriver.java">
 <persistable path="/MonteCarlo/src/MonteCarloDriver.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MonteCarloMain.java" tooltip="MonteCarlo/src/MonteCarloMain.java">
-<persistable path="/MonteCarlo/src/MonteCarloMain.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Particle.java" tooltip="MonteCarlo/src/Particle.java">
-<persistable path="/MonteCarlo/src/Particle.java"/>
 </file>
 </mruList>
 </workbench>
